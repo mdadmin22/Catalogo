@@ -1,0 +1,18 @@
+##COMANDOS BASICOS PARA TRABAJAR CON GIT##
+
+1) clonar proyecto
+    git clone https://github.com/mdadmin22/Catalogo.git
+    git status nos muestra los cambios dentro del repositorio
+
+2) Podemos ver el estado de un proyecto usando git status
+
+3) Para agregar los cambios 
+    git add nombre_del_archivo1, nombre_del_archivo2
+    o bien 
+    git add .
+
+4) Commiteamos los cambios 
+    git commit -m (de mensaje) "un mensaje" 
+
+5) Subimos los cambios 
+    git push
