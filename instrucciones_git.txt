@@ -18,4 +18,4 @@
     git push
 
 6) Traemos cambios remotos al repositorio local 
-    git pull    
+    comando git pull    
